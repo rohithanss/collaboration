@@ -1,0 +1,7 @@
+Team - Pirates
+
+1. Riya Sharma - creating: Men Page
+2. Rohit Hans - creating and merging branches and repo
+3. Mityunjay Kumar Jha - creating: Signup Page
+4. Vibhor Sharma - creating: Login Page
+5. Jitendra Pratap - creating: Navbar Page
